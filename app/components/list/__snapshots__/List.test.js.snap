@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List Component should render the component 1`] = `
+<ul>
+  <Team
+    team={
+      Object {
+        "creationYear": 1890,
+        "id": "team-1",
+        "name": "Manchester United",
+      }
+    }
+  />
+</ul>
+`;
